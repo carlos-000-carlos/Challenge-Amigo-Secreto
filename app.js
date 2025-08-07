@@ -20,7 +20,7 @@ function adicionarAmigo() {
         limparCampo();
       } else {
           nomeDoAmigo.push(nome.value);
-          listarAmigosNaTela();
+          atualizarAmigosNaTela();
           limparCampo();
         }
     }
@@ -31,7 +31,7 @@ function limparCampo() {
   adicionar.value = '';
 }
 
-function listarAmigosNaTela() {
+function atualizarAmigosNaTela() {
 const listaDeAmigosNaTela = document.getElementById('listaAmigos');
 listaDeAmigosNaTela.innerHTML = '';
 let itensLista = nomeDoAmigo;
@@ -40,4 +40,14 @@ itensLista.forEach(function(itemTexto) {
   li.textContent = itemTexto;
   listaDeAmigosNaTela.appendChild(li);
 });
+}
+
+function sortearAmigo() {
+  let resultado = document.getElementById("resultado");
+  resultado.innerHTML = "";
+  let indiceAmigo = Math.floor(Math.random() * nomeDoAmigo.length);
+  let nomeSorteado = nomeDoAmigo[indiceAmigo];
+  const li = document.createElement("li");
+  li.textContent = `Amigo sorteado: ${nomeSorteado}`;
+  resultado.appendChild(li);
 }
