@@ -12,8 +12,9 @@ function cursorNoCampoNomeDoAmigo() {
 
 function adicionarAmigo() {
   let nome = document.querySelector('input');
-  if (nome.value == '') {
+  if (nome.value == '' || nome.value[0] == ' ') {
     alert('Por favor, digite um nome.');
+    limparCampo();
   } else {
       if (nomeDoAmigo.includes(nome.value)) {
         alert('Por favor, digite outro nome, pois este nome já está na lista de amigos.');
@@ -43,6 +44,10 @@ itensLista.forEach(function(itemTexto) {
 }
 
 function sortearAmigo() {
+  if (nomeDoAmigo.length < 2) {
+    alert('Você precisa digitar pelo menos o nome de dois amigos.');
+    document.getElementById('reiniciar').removeAttribute('disabled');
+  } else {
   let resultado = document.getElementById("resultado");
   resultado.innerHTML = "";
   let indiceAmigo = Math.floor(Math.random() * nomeDoAmigo.length);
@@ -50,4 +55,5 @@ function sortearAmigo() {
   const li = document.createElement("li");
   li.textContent = `Amigo sorteado: ${nomeSorteado}`;
   resultado.appendChild(li);
+  }
 }
