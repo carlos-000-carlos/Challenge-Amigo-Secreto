@@ -12,13 +12,15 @@ Esse projeto consiste em uma aplicação onde usuários possam inserir nomes de 
 
 <br><h2> :hammer: Funcionalidades: </h2>
 
-* Adicionar nomes de amigos: Os usuários digitarão o nome de algum amigo dentro de um campo de texto e, esse nome será adicionado a uma lista que estará visível, quando clicarem no botão "Adicionar".
+1) Adicionar nomes de amigos: Os usuários digitarão o nome de algum amigo dentro de um campo de texto e, esse nome será adicionado a uma lista que estará visível, quando clicarem no botão "Adicionar".
 
-* Validar entrada do nome digitado: Somente serão inseridos nomes de amigos, desde que o campo não receba nomes repetidos ou nomes vazios (texto em branco). Caso aconteça o programa dispara um alerta de texto na tela, solicitando que o usuário digite um nome válido.
+2) Validar entrada do nome digitado: Somente serão inseridos nomes de amigos, desde que o campo não receba nomes repetidos ou nomes vazios (texto em branco). Caso aconteça o programa dispara um alerta de texto na tela, solicitando que o usuário digite um nome válido.
 
-* Visualizar a lista de amigos inseridos: Os nomes inseridos estarão visíveis em uma lista abaixo do campo de entrada de nomes.
+3) Visualizar a lista de amigos inseridos: Os nomes inseridos estarão visíveis em uma lista abaixo do campo de entrada de nomes.
 
-* Sorteio aleatório do "amigo secreto": Quando o usuário clicar no botão "Sortear Amigo", posteriormente um dos nomes da lista será sorteado de forma aleatória e será exibido na página.
+4) Sorteio aleatório do "amigo secreto": Quando o usuário clicar no botão "Sortear Amigo", posteriormente um dos nomes da lista será sorteado de forma aleatória e será exibido na página. <br> <br>
+
+
 
 
 # Índice 
