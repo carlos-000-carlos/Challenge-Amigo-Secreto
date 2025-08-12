@@ -18,7 +18,12 @@ Esse projeto consiste em uma aplicação onde usuários possam inserir nomes de 
 
 3) Visualizar a lista de amigos inseridos: Os nomes inseridos estarão visíveis em uma lista abaixo do campo de entrada de nomes.
 
-4) Sorteio aleatório do "amigo secreto": Quando o usuário clicar no botão "Sortear Amigo", posteriormente um dos nomes da lista será sorteado de forma aleatória e será exibido na página. <br> <br>
+4) Sorteio aleatório do "amigo secreto": Quando o usuário clicar no botão "Sortear Amigo", posteriormente um dos nomes da lista será sorteado de forma aleatória e será exibido na página.
+<h6>
+<img src="https://github.com/carlos-000-carlos/Challenge-Amigo-Secreto/blob/nain/assets/inserir%20nome.png" width="32%">&nbsp;
+<img src="https://github.com/carlos-000-carlos/Challenge-Amigo-Secreto/blob/nain/assets/lista%20de%20nomes.png" width="32%">&nbsp;
+<img src="https://github.com/carlos-000-carlos/Challenge-Amigo-Secreto/blob/nain/assets/sorteio%20de%20nomes.png" width="32%">&nbsp;
+<br>&ensp;Figura 01: referente às Funcionalidades 01 e 02&emsp;&emsp;&emsp;Figura 02: referente à Funcionalidade 03&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Figura 03: referente à Funcionalidade 04</h6>
 
 
 
