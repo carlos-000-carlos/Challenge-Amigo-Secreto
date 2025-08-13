@@ -22,7 +22,7 @@ Esse projeto consiste em uma aplicação onde usuários possam inserir nomes de 
 <img src="https://github.com/carlos-000-carlos/Challenge-Amigo-Secreto/blob/nain/assets/inserir%20nome.png" width="32%">&nbsp;
 <img src="https://github.com/carlos-000-carlos/Challenge-Amigo-Secreto/blob/nain/assets/lista%20de%20nomes.png" width="32%">&nbsp;
 <img src="https://github.com/carlos-000-carlos/Challenge-Amigo-Secreto/blob/nain/assets/sorteio%20de%20nomes.png" width="32%">&nbsp;
-<br>Figura 1: referente Funcionalidades 1 e 2&emsp;&emsp;Figura 2: referente Funcionalidade 3&emsp;&emsp;&ensp;Figura 3: referente Funcionalidade 4</h6>
+<br>&nbsp;&nbsp;&nbsp;Figura 1: referente ás Funcionalidades 1 e 2&emsp;&emsp;&emsp;&emsp;&emsp;Figura 2: referente à Funcionalidade 3&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;Figura 3: referente à Funcionalidade 4</h6>
 
 <br><h2> 📁 Acesso ao projeto </h2>
 
