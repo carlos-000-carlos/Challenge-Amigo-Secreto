@@ -25,6 +25,16 @@ Esse projeto consiste em uma aplicação onde usuários possam inserir nomes de 
 <img src="https://github.com/carlos-000-carlos/Challenge-Amigo-Secreto/blob/nain/assets/sorteio%20de%20nomes.png" width="32%">&nbsp;
 <br>&ensp;Figura 01: referente às Funcionalidades 01 e 02&emsp;&emsp;&emsp;Figura 02: referente à Funcionalidade 03&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Figura 03: referente à Funcionalidade 04</h6>
 
+<br><h2> 📁 Acesso ao projeto </h2>
+
+Fique á vontadde para clonar esse projeto através do link: https://github.com/carlos-000-carlos/Challenge-Amigo-Secreto/archive/refs/heads/nain.zip
+
+
+
+
+# 🛠️ Abrir e rodar o projeto
+**Apresente as instruções necessárias para abrir e executar o projeto**
+
 
 
 
