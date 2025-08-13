@@ -1,8 +1,7 @@
-<h1 align="center"> 
+<h1 align="center" > 
 	Projeto: Challenge-Amigo-Secreto (Alura + ONE)
+<br><br><img src="https://github.com/carlos-000-carlos/Challenge-Amigo-Secreto/blob/nain/assets/sorteio-amigo-oculto.png" width="75%">
 </h1>
-
-![Challenge-Amigo-Secreto](https://github.com/carlos-000-carlos/Challenge-Amigo-Secreto/blob/nain/assets/sorteio-amigo-oculto.png)
 
 <br><h2> 🧑‍💻 Sobre o projeto </h2>
 
@@ -27,28 +26,22 @@ Esse projeto consiste em uma aplicação onde usuários possam inserir nomes de 
 
 <br><h2> 📁 Acesso ao projeto </h2>
 
-Fique á vontadde para clonar esse projeto através do link: https://github.com/carlos-000-carlos/Challenge-Amigo-Secreto/archive/refs/heads/nain.zip
+Fique á vontade para clonar esse projeto através do link: https://github.com/carlos-000-carlos/Challenge-Amigo-Secreto/archive/refs/heads/nain.zip.
 
+<br><h2> 🛠️ Página da web do projeto </h2>
 
+Para desfrutar de uma experiència com o projeto basta acessar a página do sorteador: .
 
+<br><h2> ⚙️ Ferramentas e Tecnologias </h2>
 
-# 🛠️ Abrir e rodar o projeto
-**Apresente as instruções necessárias para abrir e executar o projeto**
+<img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
-
-
-
-# Índice 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-  uma letra
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+<br><h2> :office_worker: Autores </h2>
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/84159269?u=3ec320aa0a7da5793fb2f3cf485f78ec0c2787a6&v=4" width=115><br><sub>Carlos Cabral</sub>](https://github.com/carlos-000-carlos) |
+| :---: |
