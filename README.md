@@ -30,7 +30,7 @@ Fique á vontade para clonar esse projeto através do link: https://github.com/c
 
 <br><h2> 🛠️ Página da web do projeto </h2>
 
-Para desfrutar de uma experiència com o projeto basta acessar a página do sorteador: .
+Para desfrutar de uma experiència com o projeto basta acessar a página do sorteador: https://carlos-000-carlos.github.io/Challenge-Amigo-Secreto/.
 
 <br><h2> ⚙️ Ferramentas e Tecnologias </h2>
 
